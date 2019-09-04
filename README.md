@@ -1,6 +1,6 @@
 # Fortem Front End Exercise
 
-We want to see some of your basic front end chops by doing some basic front end things.  It shouldn't be too difficult.  You'll be recreating the layout based on [assets/reference.svg](./assets/reference.svg).  Use [assets/reference-details.png](./assets/reference-details.png) for reference for CSS.  Feel free to open up the SVG file in Sketch or any other program to get dimensions, fonts, colors, or whatever you need that may not be covered on the details image.  
+We want to see some of your basic front end chops by doing some basic front end things.  It shouldn't be too difficult.  You'll be recreating the layout based on [assets/reference.svg](./assets/reference.svg).  Use [assets/reference-details.png](./assets/reference-details.png) for reference for CSS.  Feel free to open up the SVG file in Sketch or any other program to get dimensions, fonts, colors, or whatever you need that may not be covered on the details image.
 
 We're fans of components, so feel free to break things into individual components.
 
@@ -8,9 +8,9 @@ We're fans of components, so feel free to break things into individual component
 
 ## Instructions
 
-### 1. Fork this Repo on GitHub
+### 1. Clone this Repo
 
-Fork this repo on GitHub.
+Clone this repo from GitHub into a new private repo.
 
 ### 2. Use Front End Library/Framework  
 
@@ -34,4 +34,4 @@ Insert a random image at the top of the data details using a consistent dimensio
 
 ### 7. Email Repo Link
 
-Once you feel it's ready, shoot an email to brandon.buttars@fortemtech.com with a link to the repo.  Make sure it's public so we can access it or if you need to keep it private make sure user `brandonbuttars` can access it.
+Once you feel it's ready, shoot an email to `brandon.buttars@fortemtech.com` with a link to the repo.  Make sure it's a private repo and that user `brandonbuttars` can access it.
